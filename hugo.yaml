@@ -88,9 +88,9 @@ params:
 
     giscus:
       repo: "sairen-art/sairen-art.github.io" # リポジトリ名
-      repoId: ""  # ※本来は必要ですが、Stackテーマならrepo名だけで動くことが多いです。動かない場合は後述します。
+      repoId: "R_kgDOQraXVw"  # ※本来は必要ですが、Stackテーマならrepo名だけで動くことが多いです。動かない場合は後述します。
       category: "Announcements" # Discussionsのカテゴリ（通常はAnnouncementsかGeneral）
-      categoryId: "" # ※同上
+      categoryId: "DIC_kwDOQraXV84Cz_S7" # ※同上
       mapping: "pathname" # ページURLに基づいてスレッドを作成
       reactionsEnabled: "1" # リアクション（いいね等）を許可
       emitMetadata: "0"
